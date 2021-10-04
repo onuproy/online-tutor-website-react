@@ -1,0 +1,32 @@
+.banner-area{
+    padding: 100px 0;
+}
+.banner-area .container .row{
+    align-items: center;
+}
+.banner-image img {
+    width: 92%;
+}
+.banner-content {
+    text-align: left;
+}
+.banner-area {
+    background: #009af5;
+}
+.banner-content h2 {
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 700;
+}
+.banner-content a {
+    background: #FFF;
+    width: 190px;
+    display: block;
+    padding: 12px 23px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 29px;
+    color: #000;
+    font-size: 20px;
+    margin-top: 38px;
+}

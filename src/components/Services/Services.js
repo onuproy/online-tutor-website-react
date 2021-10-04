@@ -1,9 +1,10 @@
 import React from 'react';
+import SingleServices from '../SingleServices/SingleServices';
 
 const Services = () => {
     return (
         <div>
-            This is services page
+            <SingleServices></SingleServices>
         </div>
     );
 };
