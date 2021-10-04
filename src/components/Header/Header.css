@@ -1,0 +1,24 @@
+.header-area{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+.logo img {
+    width: 291px;
+}
+.header-full-area{
+    background-color: #eeeeee;
+}
+nav.menu ul li a {
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 23px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+}
+nav.menu ul li {
+    list-style: none;
+}
