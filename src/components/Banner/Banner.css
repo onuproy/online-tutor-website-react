@@ -20,13 +20,17 @@
 }
 .banner-content a {
     background: #FFF;
-    width: 190px;
-    display: block;
-    padding: 12px 23px;
+    padding: 11px 30px;
     text-align: center;
     text-decoration: none;
     border-radius: 29px;
     color: #000;
-    font-size: 20px;
-    margin-top: 38px;
+    font-size: 18px;
+    margin-top: 23px;
+    display: inline-block;
+    transition: 0.5s;
+}
+.banner-content a:hover {
+    background: #000;
+    color: #FFF;
 }

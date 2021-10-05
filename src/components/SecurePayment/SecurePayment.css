@@ -1,0 +1,23 @@
+.SecurePayment-area{
+    padding-top: 0px;
+    padding-bottom: 100px;
+}
+.SecurePayment-area .container .row{
+    align-items: center;
+}
+.payment-image img{
+    width: 100%;
+}
+.payment-content {
+    text-align: left;
+}
+.payment-content h3 {
+    color: #11025F;
+    font-size: 27px;
+    padding-bottom: 10px;
+}
+.payment-content p {
+    color: #11025F;
+    font-size: 17px;
+    padding-bottom: 20px;
+}

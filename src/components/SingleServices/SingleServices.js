@@ -15,8 +15,8 @@ const SingleServices = (props) => {
                      <h1> Name: {name}</h1>
                      <h3>Subject: {sub}</h3>
                      <h3>Email: {email}</h3>
-                     <h3>Course Fee:{price}</h3>
-                     <button> See more</button>
+                     <h3>Course Fee: ${price}</h3>
+                     <button> See more </button>
                  </div>
             </div>
        </div>

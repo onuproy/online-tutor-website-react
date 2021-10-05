@@ -3,6 +3,9 @@ import { NavLink } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
+    const activeStyle = {
+        color: "#009AF5",
+    }
     return (
         <header className="header-full-area">
             <div className="container">
@@ -10,15 +13,15 @@ const Header = () => {
                     <div className="col-12">
                         <div className="header-area">
                             <div className="logo">
-                                <img src="https://coderitsolution.com/wp-content/uploads/2021/01/footer-logo.png" alt="logo" />
+                                <NavLink to="/home"><img src="https://coderitsolution.com/wp-content/uploads/2021/01/footer-logo.png" alt="logo" /></NavLink>
                             </div>
                             <nav className="menu">
                                 <ul>
                                     <li>
-                                    <NavLink to="/home">Home</NavLink>
-                                    <NavLink to="/about">About</NavLink>
-                                    <NavLink to="/services">Services</NavLink>
-                                    <NavLink to="/contact">Conact</NavLink>
+                                    <NavLink activeStyle={activeStyle} to="/home">Home</NavLink>
+                                    <NavLink activeStyle={activeStyle} to="/about">About</NavLink>
+                                    <NavLink activeStyle={activeStyle} to="/services">Services</NavLink>
+                                    <NavLink activeStyle={activeStyle} to="/contact">Conact</NavLink>
                                     </li>
                                 </ul>
                             </nav>

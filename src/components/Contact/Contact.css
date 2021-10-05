@@ -32,7 +32,6 @@ h2 {
 .input-contact button {
     color: #ffffff;
     background-color: rgb(0,174,239);
-    /* border: none; */
     text-transform: uppercase;
     float: left;
     display: inline-block;
@@ -40,10 +39,15 @@ h2 {
     width: 28%;
     cursor: pointer;
     padding: 10px 0;
-    border-radius: 2px;
     border: 1px solid transparent;
     transition: .5s;
     box-shadow: 0px 0px 51px 0px rgba(147, 147, 147, 0.2);
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.input-contact button:hover {
+    background: #000;
+    color: #FFF;
 }
 .form-control:focus {
     color: #212529;

@@ -6,7 +6,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/DrxjRHQ/robertson.jpg",
         "email": "Leighgmail.com",
-        "price": 60
+        "price": 600
     },
     {
         "id": "02",
@@ -15,16 +15,16 @@
         "rating": "5",
         "img": "https://i.ibb.co/CtRFCDY/yolanda.jpg",
         "email": "leigh@gmail.com",
-        "price": 50
+        "price": 500
     },
     {
         "id": "03",
-        "name": "Shemol Roy",
+        "name": "Lillie C. Watts",
         "sub": "English",
         "rating": "5",
         "img": "https://i.ibb.co/JBHSVMV/townsley.jpg",
-        "email": "shemol@gmail.com",
-        "price": 90
+        "email": "watts@gmail.com",
+        "price": 390
     },
     {
         "id": "04",
@@ -33,7 +33,7 @@
         "rating": "4.6",
         "img": "https://i.ibb.co/F5HMJG7/pelto.jpg",
         "email": "chamistry@gmail.com",
-        "price": 40
+        "price": 440
     },
     {
         "id": "05",
@@ -42,7 +42,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/WcgVjJC/rachel.jpg",
         "email": "eman@gmail.com",
-        "price": 60
+        "price": 660
     },
     {
         "id": "06",
@@ -51,7 +51,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/R772Kws/dan.jpg",
         "email": "vimalgmail.com",
-        "price": 80
+        "price": 180
     },
     {
         "id": "07",
@@ -60,7 +60,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/xz76XXG/jennifer.jpg",
         "email": "gaia@gmail.com",
-        "price": 40
+        "price": 840
     },
     {
         "id": "08",
@@ -69,7 +69,7 @@
         "rating": "4.9",
         "img": "https://i.ibb.co/LdLgwdw/p-jon.jpg",
         "email": "marco@gmail.com",
-        "price": 50
+        "price": 950
     },
     {
         "id": "09",
@@ -78,7 +78,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/z6ZxNmy/doug.jpg",
         "email": "roman@gmail.com",
-        "price": 80
+        "price": 880
     },
     {
         "id": "10",
@@ -87,7 +87,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/jVF9LGz/john.jpg",
         "email": "stephen@gmail.com",
-        "price": 100
+        "price": 180
     },
     {
         "id": "11",
@@ -96,7 +96,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/tXVs1Yb/allen.jpg",
         "email": "valerie@gmail.com",
-        "price": 90
+        "price": 990
     },
     {
         "id": "12",
@@ -105,7 +105,7 @@
         "rating": "5",
         "img": "https://i.ibb.co/mTBbMBF/jon.jpg",
         "email": "luis@gmail.com",
-        "price": 40
+        "price": 240
     }
 
 ]

@@ -9,29 +9,35 @@
     object-fit: cover;
 }
 .simgle-item {
-	background: #f5f7f9;
-	margin: 13px;
-	border-radius: 10px;
-	box-sizing: border-box;
-	box-shadow: 0 0 9px #ddd;
-	padding: 15px;
+    background: #f5f7f9;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px #ddd;
+    padding: 15px;
+    margin-bottom: 30px;
 }
 .single-content h1 {
-    font-size: 22px;
+    font-size: 20px;
     margin-top: 19px;
+    font-weight: 500;
+    color: #000;
 }
 .single-content h3 {
-    font-size: 17px;
-    line-height: 27px;
+    font-size: 15px;
+    line-height: 23px;
 }
 
 .single-content button {
     background: #02AFF0;
     color: #fff;
     border: 0;
-    font-size: 19px;
+    font-size: 16px;
     margin-top: 15px;
-    padding: 6px 15px;
+    padding: 9px 24px;
     cursor: pointer;
-    border-radius: 7px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.single-content button:hover {
+    background: #000;
 }

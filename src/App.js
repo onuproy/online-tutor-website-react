@@ -36,11 +36,7 @@ function App() {
           </Switch>
           <Footer></Footer>
         </Router>
-
-
-
     </div>
   );
 }
-
 export default App;

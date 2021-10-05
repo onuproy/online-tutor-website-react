@@ -15,7 +15,9 @@ const Services = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-12">
-
+                        <div className="title">
+                            <h2>Our Tutors</h2>
+                        </div>
                     </div>
                     {
                         tutors.map(tutor => <SingleServices

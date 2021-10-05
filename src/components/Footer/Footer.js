@@ -8,7 +8,7 @@ const Footer = () => {
 				<div class="row">
 					<div class="col-xl-12">
 						<div class="footer_content text-center"> 
-							<p> ©2021 All Rights Reserved <a href="#">Onup</a></p>
+							<p> ©2021 All Rights Reserved <a href="#">Coder It solution</a></p>
 						</div>
 					</div>
 					<div class="col-xl-12"> 
