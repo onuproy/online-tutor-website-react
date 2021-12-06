@@ -1,4 +1,4 @@
-Coder it solution Online Tutor Website
+Coder it solution Online Tutor React Website
 
 Live website Link:(https://cocky-lamarr-717ed2.netlify.app).
 
